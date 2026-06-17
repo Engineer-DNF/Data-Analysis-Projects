@@ -12,11 +12,10 @@ This project showcases an end-to-end data analytics workflow using the **GameZon
 
 Starting from raw data, I performed data quality assessment, data cleaning, validation, exploratory analysis, and interactive dashboard development using **Microsoft Excel** and **Tableau**.
 
-> 📷 **Project Dashboard**
+### 📷 **Project Dashboard**
 >
-> Click below to explore the interactive dashboard.
 >
-> 🔗 [View Interactive Dashboard](https://public.tableau.com/app/profile/facundo.diaz.neto/viz/SalesDashboard-Gamezone/SalesPerformanceDashboard)
+> 🔗 [View Interactive Dashboard](https://public.tableau.com/app/profile/facundo.diaz.neto/viz/SalesDashboard-Gamezone/SalesPerformanceDashboard) Click to explore the interactive dashboard on Tableau.
 >
 > ![Dashboard Overview](images/Sales-Performance-Dashboard.png)
 
