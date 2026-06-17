@@ -109,9 +109,7 @@ When insufficient information was available, records were preserved and document
 
 ### 📷 Issues Log
 
-*( screenshot - Issues Log worksheet)*
-
-![Issues Log](images/issues_log.png)
+![Issues Log](images/Issues-Log.png)
 
 ---
 
