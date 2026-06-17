@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-This project showcases an end-to-end data analytics workflow using the **GameZone Orders Dataset**, a real-world e-commerce dataset containing **21,864 sales transactions**.
+This project demonstrates an end-to-end data analytics workflow using the **GameZone Orders Dataset**, a real-world e-commerce dataset containing **21,864 sales transactions**.
 
 Starting from raw transactional data, I assessed data quality, cleaned and validated the dataset, performed exploratory analysis in Microsoft Excel, and built an interactive Tableau dashboard to uncover business insights.
 
@@ -25,25 +25,25 @@ Explore the interactive dashboard on Tableau Public:
 ## Project Workflow
 
 ```text
-                                                      Raw Dataset
-                                                            │
-                                                            ▼
-                                                      Data Quality Assessment
-                                                            │
-                                                            ▼
-                                                      Issues Log
-                                                            │
-                                                            ▼
-                                                      Data Cleaning & Validation
-                                                            │
-                                                            ▼
-                                                      Pivot Table Analysis
-                                                            │
-                                                            ▼
-                                                      Insights Log
-                                                            │
-                                                            ▼
-                                                      Interactive Tableau Dashboards
+                                                        Raw Dataset
+                                                              │
+                                                              ▼
+                                                        Data Quality Assessment
+                                                              │
+                                                              ▼
+                                                        Issues Log
+                                                              │
+                                                              ▼
+                                                        Data Cleaning & Validation
+                                                              │
+                                                              ▼
+                                                        Exploratory Data Analysis
+                                                              │
+                                                              ▼
+                                                        Interactive Tableau Dashboard
+                                                              │
+                                                              ▼
+                                                        Business Insights & Recommendations
 ```
 
 ---
@@ -54,7 +54,7 @@ Explore the interactive dashboard on Tableau Public:
 - Microsoft Excel
 - Tableau
 
-### Excel Features Used
+### Excel Techniques
 - Pivot Tables
 - Conditional Formatting
 - Sparklines
@@ -88,7 +88,7 @@ Explore the interactive dashboard on Tableau Public:
 - Clean and standardize inconsistent data
 - Validate data integrity
 - Generate business insights
-- Build interactive Tableau dashboard
+- Develop an interactive Tableau dashboard
 
 ---
 
@@ -107,7 +107,7 @@ The cleaning process included:
 
 When insufficient information was available, records were preserved and documented instead of being modified.
 
-### 📷 Issues Log
+### Issues Log
 
 ![Issues Log](images/Issues-Log.png)
 
@@ -115,7 +115,7 @@ When insufficient information was available, records were preserved and document
 
 ## Business Analysis
 
-The cleaned dataset was analyzed using Excel Pivot Tables and Tableau.
+After cleaning and validating the data, exploratory analysis was performed using Excel Pivot Tables before building the Tableau dashboard.
 
 The analysis focused on:
 
@@ -126,9 +126,8 @@ The analysis focused on:
 - Marketing channel performance
 - Regional performance
 
-An **Insights Log** was created to document every business finding and identify the stakeholders who could benefit from each insight.
 
-### 📷 Pivot Table Analysis
+### Pivot Table Analysis
 
 *(screenshot - Pivot Table with Conditional Formatting and Sparklines.)*
 
@@ -136,34 +135,41 @@ An **Insights Log** was created to document every business finding and identify 
 
 ---
 
-## Tableau Dashboards
+---
 
-The project includes multiple interactive dashboards.
+## Tableau Visualizations
 
-| Dashboard | Purpose |
-|-----------|---------|
-| Overall Revenue | Revenue trend over time |
-| Product Revenue | Revenue by product |
-| Product Sales Count | Units sold by product |
-| Product AOV | Average Order Value |
-| Marketing Revenue | Revenue by acquisition channel |
-| Regional Revenue | Revenue by geographic region |
-| Product Revenue by Marketing | Marketing performance by product |
-| Product Revenue by Region | Regional performance by product |
+The final stage of the project consisted of building an interactive Tableau dashboard supported by several analytical worksheets to explore revenue trends from different business perspectives.
 
-### 📷 Dashboard Examples
+### Interactive Dashboard
 
-#### Overall Revenue
+![Dashboard](images/dashboard-overview.png)
 
-![Overall Revenue](images/tableau_overall.png)
+### Overall Revenue
 
-#### Product Revenue
+Monthly revenue trend across all products.
 
-![Product Revenue](images/tableau_products.png)
+![Overall Revenue](images/overall-revenue.png)
 
-#### Marketing Performance
+### Product Revenue
 
-![Marketing Dashboard](images/tableau_marketing.png)
+Revenue trends by product over time.
+
+![Product Revenue](images/product-revenue.png)
+
+### Marketing Channels
+
+Revenue generated by each acquisition channel.
+
+![Marketing Revenue](images/marketing-revenue.png)
+
+### Regional Performance
+
+Revenue trends across geographic regions.
+
+![Regional Revenue](images/regional-revenue.png)
+
+---
 
 ---
 ## Key Findings
