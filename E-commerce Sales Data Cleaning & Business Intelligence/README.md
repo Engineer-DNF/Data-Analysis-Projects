@@ -127,23 +127,15 @@ The analysis focused on:
 - Regional performance
 
 
-### Pivot Table Analysis
+### Pivot Table
 
-*(screenshot - Pivot Table with Conditional Formatting and Sparklines.)*
-
-![Pivot Table](images/pivot_table.png)
-
----
+![Pivot Table](images/Pivot2-Table.png)
 
 ---
 
 ## Tableau Visualizations
 
-The final stage of the project consisted of building an interactive Tableau dashboard supported by several analytical worksheets to explore revenue trends from different business perspectives.
-
-### Interactive Dashboard
-
-![Dashboard](images/dashboard-overview.png)
+The cleaned dataset was visualized in Tableau through one interactive dashboard and several supporting charts that explore revenue trends from multiple business perspectives.
 
 ### Overall Revenue
 
@@ -170,14 +162,12 @@ Revenue trends across geographic regions.
 ![Regional Revenue](images/regional-revenue.png)
 
 ---
-
----
 ## Key Findings
 
 - **USD 6.1M** in total sales analyzed across 21,864 transactions.
 - Revenue nearly doubled during 2020 before declining in 2021.
 - December consistently recorded the strongest sales performance.
-- Gaming Monitor, Nintendo Switch, and PlayStation 5 were the top revenue drivers.
+- Gaming Monitor, Nintendo Switch, and PlayStation 5 generated the highest revenue.
 - Direct was the highest-performing marketing channel.
 - Similar revenue patterns were observed across all geographic regions.
 ---
@@ -188,7 +178,7 @@ Revenue trends across geographic regions.
 GameZone-Orders-Data-Analysis/
 
 ├── excel/
-│   ├── GameZone_Orders_Cleaning.xlsx
+│   ├── GameZone-Orders-data.xlsx
 │
 ├── tableau/
 │   └── GameZone_Dashboard.twbx
@@ -207,16 +197,12 @@ GameZone-Orders-Data-Analysis/
 ---
 
 ## Highlights
-🟩 Performed end-to-end data cleaning on a real-world dataset.
 
-🟩 Identified and documented data quality issues before analysis.
-
-🟩Built a reproducible data cleaning workflow in Excel.
-
-🟩 Performed exploratory business analysis using Pivot Tables.
-
-🟩 Created interactive Tableau dashboards.
-
-🟩 Generated actionable insights for Finance, Marketing, and Product teams.
+- Performed end-to-end data cleaning on a real-world dataset.
+- Identified and documented data quality issues before analysis.
+- Built a reproducible data cleaning workflow in Excel.
+- Performed exploratory business analysis using Pivot Tables.
+- Created interactive Tableau dashboards.
+- Generated actionable insights for Finance, Marketing, and Product teams.
 
 ---
