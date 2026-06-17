@@ -10,39 +10,40 @@
 
 This project showcases an end-to-end data analytics workflow using the **GameZone Orders Dataset**, a real-world e-commerce dataset containing **21,864 sales transactions**.
 
-Starting from raw data, I performed data quality assessment, data cleaning, validation, exploratory analysis, and interactive dashboard development using **Microsoft Excel** and **Tableau**.
+Starting from raw transactional data, I assessed data quality, cleaned and validated the dataset, performed exploratory analysis in Microsoft Excel, and built an interactive Tableau dashboard to uncover business insights.
 
-### 📷 **Project Dashboard**
->
->
-> 🔗 [View Interactive Dashboard](https://public.tableau.com/app/profile/facundo.diaz.neto/viz/SalesDashboard-Gamezone/SalesPerformanceDashboard) Click to explore the interactive dashboard on Tableau.
->
-> ![Dashboard Overview](images/Sales-Performance-Dashboard.png)
+### Interactive Tableau Dashboard
+
+Explore the interactive dashboard on Tableau Public:
+
+🔗 **[View Interactive Dashboard](https://public.tableau.com/app/profile/facundo.diaz.neto/viz/SalesDashboard-Gamezone/SalesPerformanceDashboard)**
+
+![Dashboard Overview](images/Sales-Performance-Dashboard.png)
 
 ---
 
 ## Project Workflow
 
 ```text
-Raw Dataset
-      │
-      ▼
-Data Quality Assessment
-      │
-      ▼
-Issues Log
-      │
-      ▼
-Data Cleaning & Validation
-      │
-      ▼
-Pivot Table Analysis
-      │
-      ▼
-Insights Log
-      │
-      ▼
-Interactive Tableau Dashboards
+                                                      Raw Dataset
+                                                            │
+                                                            ▼
+                                                      Data Quality Assessment
+                                                            │
+                                                            ▼
+                                                      Issues Log
+                                                            │
+                                                            ▼
+                                                      Data Cleaning & Validation
+                                                            │
+                                                            ▼
+                                                      Pivot Table Analysis
+                                                            │
+                                                            ▼
+                                                      Insights Log
+                                                            │
+                                                            ▼
+                                                      Interactive Tableau Dashboards
 ```
 
 ---
@@ -87,7 +88,7 @@ Interactive Tableau Dashboards
 - Clean and standardize inconsistent data
 - Validate data integrity
 - Generate business insights
-- Build interactive Tableau dashboards
+- Build interactive Tableau dashboard
 
 ---
 
