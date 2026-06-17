@@ -141,7 +141,7 @@ The cleaned dataset was visualized in Tableau through one interactive dashboard 
 
 Monthly revenue trend across all products.
 
-![Overall Revenue](images/overall-revenue.png)
+![Overall Revenue](images/Overall-Revenue.png)
 
 ### Product Revenue
 
