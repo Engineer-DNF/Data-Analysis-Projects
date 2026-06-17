@@ -18,7 +18,7 @@ Starting from raw data, I performed data quality assessment, data cleaning, vali
 >
 > 🔗 [View Interactive Dashboard](https://public.tableau.com/app/profile/facundo.diaz.neto/viz/SalesDashboard-Gamezone/SalesPerformanceDashboard)
 >
-> ![Dashboard Overview](Images/Sales-Performance-Dashboard.png)
+> ![Dashboard Overview](images/Sales-Performance-Dashboard.png)
 
 ---
 
@@ -111,7 +111,7 @@ When insufficient information was available, records were preserved and document
 
 *( screenshot - Issues Log worksheet)*
 
-![Issues Log](Images/issues_log.png)
+![Issues Log](images/issues_log.png)
 
 ---
 
@@ -134,7 +134,7 @@ An **Insights Log** was created to document every business finding and identify 
 
 *(screenshot - Pivot Table with Conditional Formatting and Sparklines.)*
 
-![Pivot Table](Images/pivot_table.png)
+![Pivot Table](images/pivot_table.png)
 
 ---
 
@@ -157,15 +157,15 @@ The project includes multiple interactive dashboards.
 
 #### Overall Revenue
 
-![Overall Revenue](Images/tableau_overall.png)
+![Overall Revenue](images/tableau_overall.png)
 
 #### Product Revenue
 
-![Product Revenue](Images/tableau_products.png)
+![Product Revenue](images/tableau_products.png)
 
 #### Marketing Performance
 
-![Marketing Dashboard](Images/tableau_marketing.png)
+![Marketing Dashboard](images/tableau_marketing.png)
 
 ---
 ## Key Findings
@@ -183,13 +183,13 @@ The project includes multiple interactive dashboards.
 ```text
 GameZone-Orders-Data-Analysis/
 
-├── Excel/
+├── excel/
 │   ├── GameZone_Orders_Cleaning.xlsx
 │
-├── Tableau/
+├── tableau/
 │   └── GameZone_Dashboard.twbx
 │
-├── Images/
+├── images/
 │   ├── dashboard_overview.png
 │   ├── issues_log.png
 │   ├── pivot_table.png
