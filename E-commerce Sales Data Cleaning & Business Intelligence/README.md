@@ -14,9 +14,11 @@ Starting from raw data, I performed data quality assessment, data cleaning, vali
 
 > 📷 **Project Dashboard**
 >
-> *( screenshot- main Tableau dashboard)*
+> Click below to explore the interactive dashboard.
 >
-> ![Dashboard Overview](Images/dashboard_overview.png)
+> 🔗 https://public.tableau.com/app/profile/facundo.diaz.neto/viz/SalesDashboard-Gamezone/SalesPerformanceDashboard
+>
+> ![Dashboard Overview](Images/Sales Performance Dashboard.png)
 
 ---
 
