@@ -147,7 +147,7 @@ Monthly revenue trend across all products.
 
 Revenue trends by product over time.
 
-![Product Revenue](images/product-revenue.png)
+![Product Revenue](images/Product-Revenue.png)
 
 ### Marketing Channels
 
